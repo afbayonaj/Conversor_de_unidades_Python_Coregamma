@@ -1,6 +1,0 @@
-pyinstaller --windowed --onefile --icon=./myAvatar.ico coregamma.py
-
-pyinstaller --windowed --onefile coregamma.py
-
-pyinstaller --windowed coregamma.py
-
